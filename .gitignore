@@ -60,4 +60,4 @@ venv.bak/
 # polls app
 polls/migrations/__pycache__
 polls/migrations/*
-polls/__pycache__/*
+polls/__pycache__/
